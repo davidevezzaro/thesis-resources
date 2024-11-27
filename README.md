@@ -44,16 +44,12 @@ This repository serves as a reference for researchers and practitioners interest
 
 3. **Generative models**: The aforementioned prompt collections can be tested with the generative models employed in this research, their adapted source code can be found at:
    - [Stable Diffusion 1.4](https://github.com/davidevezzaro/sd14-test)
-   - [Cross Attention Guidance](https://github.com/davidevezzaro/layout-guidance-test):
-   - [GLIGEN](https://github.com/davidevezzaro/gligen-test):
+   - [Cross Attention Guidance](https://github.com/davidevezzaro/layout-guidance-test)
+   - [GLIGEN](https://github.com/davidevezzaro/gligen-test)
    - [BoxDiff](https://github.com/davidevezzaro/boxdiff-test)
    - [Attention Refocusing](https://github.com/davidevezzaro/attention-refocusing-test)
 
 4. **Evaluation pipeline**: The generated images can evaluated using the proposed pipeline. The source code of the evaluation pipeline for layout-guided models adapated from [TIFA](https://github.com/Yushi-Hu/tifa) can be found at:
-   - [Stable Diffusion 1.4](https://github.com/davidevezzaro/sd14-test)
-   - [Cross Attention Guidance](https://github.com/davidevezzaro/layout-guidance-test):
-   - [GLIGEN](https://github.com/davidevezzaro/gligen-test):
-   - [BoxDiff](https://github.com/davidevezzaro/boxdiff-test)
-   - [Attention Refocusing](https://github.com/davidevezzaro/attention-refocusing-test)
+   - [Pipeline for layout-guided models](https://github.com/davidevezzaro/tifa-test)
   
 5. **Thesis**: the dissertation of the entire project can be found [here](https://unipdit-my.sharepoint.com/:f:/g/personal/davide_vezzaro_4_studenti_unipd_it/ElDlfwwUfE9LldzDZZ8_ig4BoAo4443E4Y9KPU_RBKi6ow?e=fL0WIn).
