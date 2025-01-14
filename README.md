@@ -3,6 +3,7 @@
 This repository contains the resources developed during my master's thesis titled **"Evaluation and Comparison of Layout-Guided Text-to-Image Diffusion Models"**. The thesis presents a methodological approach to evaluate and compare layout-guided  diffusion models conditioned by bounding boxes.
 
 **Abstract**
+
 This study investigates text-to-image diffusion models, which generate images from textual descriptions. While promising for applications like art and creative content creation, these models face challenges, particularly with missing elements or incorrect attribute bindings when handling complex scenes with multiple elements and spatial relationships. To address these limitations, layout-guided models have emerged, allowing users to specify layouts (e.g., bounding boxes) alongside captions for better control. However, while much research has focused on text-to-image models, layout-guided models remain underexplored. This work focuses on evaluating bounding box layout-guided models crafting a new prompt collection annotated with bounding boxes and a novel evaluation pipeline to measure layout accuracy of these models. Finally a comparison across all the models was performed. Resources, including prompts, code, and results, are publicly available.
 
 This repository contains the resources developed for this study, specifically:
