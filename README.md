@@ -56,4 +56,4 @@ This repository serves as a reference for researchers and practitioners interest
 4. **Evaluation pipeline**: The generated images can evaluated using the proposed pipeline. The source code of the evaluation pipeline for layout-guided models adapated from [TIFA](https://github.com/Yushi-Hu/tifa) can be found at:
    - [Pipeline for layout-guided models](https://github.com/davidevezzaro/tifa-test)
   
-5. **Thesis**: the dissertation of the entire project can be found [here](https://unipdit-my.sharepoint.com/:f:/g/personal/davide_vezzaro_4_studenti_unipd_it/ElDlfwwUfE9LldzDZZ8_ig4BoAo4443E4Y9KPU_RBKi6ow?e=fL0WIn).
+5. **Thesis**: the dissertation of the entire project can be found [here](https://thesis.unipd.it/handle/20.500.12608/80214).
